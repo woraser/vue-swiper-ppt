@@ -25,7 +25,7 @@ export default {
     name: 'hello',
     data () {
         return {
-        msg: 'Welcome to Vue-swiper-ppt',
+        msg: 'Nice Girl',
         images: [
             'http://ow5nqfa5j.bkt.clouddn.com/imgPPT3.png',
             'http://ow5nqfa5j.bkt.clouddn.com/imgPPT5.png',
